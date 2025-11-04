@@ -1,28 +1,28 @@
 ﻿# Door-Lock-System-with-Voice-Recognition-for-Prohibited-Room-FYP2018-
 
-🏠 Door Lock System with Voice Recognition for Prohibited Room
-👨‍💻 Project Members
+**🏠 Door Lock System with Voice Recognition for Prohibited Room**
+**👨‍💻 Project Members**
 
 Muhamad Iskandar Bin Izhhar
 
 Iman Hazwam Bin Abdul Halim
 (Faculty of Computer and Mathematical Sciences, UiTM Perlis)
 
-⚙️ Methodology
+**⚙️ Methodology**
 
 The project follows several development phases:
 
-Initiation Phase
+- Initiation Phase
 
-Planning Phase
+- Planning Phase
 
-Development Phase
+- Development Phase
 
-Evaluation Phase
+- Evaluation Phase
 
-Documentation Phase
+- Documentation Phase
 
-🧠 Proposed Architecture
+**🧠 Proposed Architecture**
 
 - Raspberry Pi (main controller)
 
@@ -36,21 +36,27 @@ Documentation Phase
 
 - GSM Module (notification via SMS)
 
-📊 Results
-Test	Description	Result
+**📊 Results**
+
+*Test	Description	Result*
 System Reliability	3 sessions tested	Up to 98% reliability
+
 Voice Deliverable Distance	Up to 1.0 m effective range	
+
 Response Time to Open Door	10–18 seconds	
+
 Notification Response Time	20–26 seconds (based on location)
 
-🧠 Technologies Used
 
-Raspberry Pi
+**🧠 Technologies Used**
 
-Python / C (Embedded)
+- Raspberry Pi
 
-GSM Module
+- Python / C (Embedded)
 
-Servo Motor
+- GSM Module
 
-Microphone & Keypad Integration
+- Servo Motor
+
+- Microphone & Keypad Integration
+
