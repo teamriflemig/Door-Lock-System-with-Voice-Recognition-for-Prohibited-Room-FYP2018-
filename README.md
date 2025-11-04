@@ -8,7 +8,7 @@ Muhamad Iskandar Bin Izhhar
 Iman Hazwam Bin Abdul Halim
 (Faculty of Computer and Mathematical Sciences, UiTM Perlis)
 
-**⚙️ Methodology**
+###**⚙️ Methodology**
 
 The project follows several development phases:
 
@@ -22,7 +22,7 @@ The project follows several development phases:
 
 - Documentation Phase
 
-**🧠 Proposed Architecture**
+###**🧠 Proposed Architecture**
 
 - Raspberry Pi (main controller)
 
@@ -36,7 +36,7 @@ The project follows several development phases:
 
 - GSM Module (notification via SMS)
 
-**📊 Results**
+###**📊 Results**
 
 *Test	Description	Result*
 System Reliability	3 sessions tested	Up to 98% reliability
@@ -48,7 +48,7 @@ Response Time to Open Door	10–18 seconds
 Notification Response Time	20–26 seconds (based on location)
 
 
-**🧠 Technologies Used**
+###**🧠 Technologies Used**
 
 - Raspberry Pi
 
@@ -59,4 +59,5 @@ Notification Response Time	20–26 seconds (based on location)
 - Servo Motor
 
 - Microphone & Keypad Integration
+
 
